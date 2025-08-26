@@ -55,8 +55,8 @@ npx prisma migrate dev
 ### Make sure to create a `.env` file with following variables -
 
 ```
-DATABASE_URL=
-DIRECT_URL=
+# MongoDB Connection
+DATABASE_URL="mongodb+srv://<user>:<password>@<cluster-url>/<database-name>?retryWrites=true&w=majority"
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
