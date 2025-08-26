@@ -1,6 +1,6 @@
 
 # FinanceWhisperer.AI
-# 🔥 Full Stack AI Finance Platform built with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI 
+# 🔥 Full Stack AI Finance Platform 
 
 FinanceWhisperer.AI is a full-stack, AI-powered finance platform designed to provide intelligent financial management. It allows users to track income and expenses, manage budgets, and gain insights into their spending habits through an intuitive interface and powerful analytics.
 
@@ -13,15 +13,6 @@ Recurring Transactions: Set up and manage recurring transactions for automated f
 Monthly Reports: Receive detailed monthly reports via email, complete with AI-generated insights to help you understand your financial health.    
 Secure Authentication: User authentication is handled by Clerk, providing a secure and reliable login experience.     
 
-## Tech Stack 🛠️
-Framework: Next.js   
-Database: PostgreSQL with Prisma   
-Authentication: Clerk   
-Styling: Tailwind CSS with Shadcn UI   
-AI: Google Generative AI (Gemini)     
-Background Jobs: Inngest   
-Email: Resend      
-Security: Arcjet    
 
 ## Getting Started 🚀
 Follow these steps to get the project up and running on your local machine.
