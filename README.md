@@ -5,12 +5,12 @@
 FinanceWhisperer.AI is a full-stack, AI-powered finance platform designed to provide intelligent financial management. It allows users to track income and expenses, manage budgets, and gain insights into their spending habits through an intuitive interface and powerful analytics.
 
 ## Tech Stack 🛠️
-Framework: Next.js
-Database: PostgreSQL with Prisma
+Framework: Next.js - JavaScript
+Database: Supabase with Prisma
 Authentication: Clerk
 Styling: Tailwind CSS with Shadcn UI
 AI: Google Generative AI (Gemini)
-Background Jobs: Inngest
+Background Workflows: Inngest
 Email: Resend
 Security: Arcjet
 
